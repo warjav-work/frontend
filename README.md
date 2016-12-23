@@ -1,3 +1,3 @@
 # hola-mundo
-Primer repositorio
-Ahora lo cabio
+Primer repositorio.
+Ahora lo cambio
